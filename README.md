@@ -4,7 +4,7 @@ capstone project
 
 **Instructions to run the application:**
 
-Clone this repository: git clone https://github.com/manohar8642/Avnet.git
+Clone this repository
 
 Create a new conda environment: conda create --name "name of the environment" python==3.10.4
 	
