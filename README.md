@@ -13,8 +13,10 @@ To activate the environment: conda activate "name of the environment"
 	
 Go to the directory and install the required packages: pip install -r requirements.txt
 
+Once installed, type this in cmd after navigating to the root directory : streamlit run Home.py
+
 This dashboard also has user role identification. To view all 3 dashboards type this username and pswd in Home page
 -- user name = admin
 ---pswd = 123
 	
-Once installed, type this in cmd after navigating to the root directory : streamlit run Home.py
+
